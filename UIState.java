@@ -1,0 +1,4 @@
+enum UIState{
+    INPUT, 
+    FEEDBACK
+};
