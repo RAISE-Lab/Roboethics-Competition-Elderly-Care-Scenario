@@ -1,4 +1,4 @@
-# ICRA 2022 Roboethics Competition Hackathon 
+#  Roboethics Competition Hackathon - Elderly Care Home Context
 
 
 ## Relevant Files:
